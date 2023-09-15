@@ -1,5 +1,5 @@
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#164](https://github.com/WP-API/docs/pull/164) in [WP-API/docs](https://github.com/WP-API/docs)
+1. 🗣 Commented on [#365](https://github.com/elixir-wallaby/wallaby/issues/365#issuecomment-1719450649) in [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby)
 <!--END_SECTION:activity-->
